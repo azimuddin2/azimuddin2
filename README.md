@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="100%" src="https://i.ibb.co.com/rMTqmJx/Cover-Image.png"/>
 <h1 align="center">Hello 👋, I'm Azim Uddin</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Developer | Front-end Web Developer</h3>
+<h3 align="center">Full Stack Web Developer | Backend Developer | MERN Stack Developer | Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azimuddin2&label=Profile%20views&color=0e75b6&style=flat" alt="azimuddin2" /> </p>
 
