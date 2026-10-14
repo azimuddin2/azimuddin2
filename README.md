@@ -1,19 +1,108 @@
-<img align="right" alt="Coding" width="100%" src="https://i.ibb.co.com/rMTqmJx/Cover-Image.png"/>
-<h1 align="center">Hello 👋, I'm Azim Uddin</h1>
-<h3 align="center">Full Stack Web Developer | Backend Developer | MERN Stack Developer | Front-end Web Developer</h3>
+<h1 align="center">Hi, I'm Md. Azim Uddin 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azimuddin2&label=Profile%20views&color=0e75b6&style=flat" alt="azimuddin2" /> </p>
+<h3 align="center">Full Stack Developer | React, React Native, Next.js, Node.js, NestJS, TypeScript</h3>
 
-<h3 align="left">💬 About Me</h3>
-- **I am a passionate Full Stack Web Developer and Software Developer with over 4 years of hands-on experience in web programming. I specialize in designing and developing dynamic, responsive, and error-free websites that align perfectly with modern web standards and user expectations. Web development is more than just a profession for me—it’s my passion. I thrive on challenges and find joy in solving complex problems with innovative, user-friendly solutions. From creating intuitive interfaces to implementing robust back-end systems, my work reflects a deep commitment to quality and excellence.**
-
-
-<p align="left">
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;•&nbsp; 💬 +880 1883 061967 (WhatsApp)
 </p>
 
-<h3 align="left">💡Technology Skills & Tools</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://azimuddin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammadazimuddin274@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/8801883061967"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azimuddin2&show_icons=true&locale=en&layout=compact" alt="azimuddin2" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azimuddin2&show_icons=true&locale=en" alt="azimuddin2" /></p>
+## 👨‍💻 About Me
+
+Full Stack Developer with 2+ years of experience designing, developing, and deploying scalable web applications using **JavaScript, TypeScript, React.js, Next.js, Node.js, and MongoDB / PostgreSQL**.
+
+I build REST APIs, real-time features, and responsive user interfaces, and I also teach modern web development to students. I focus on clean code, performance, and user-friendly experiences.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap,materialui" alt="Frontend skills" />
+
+React.js · React Native · Next.js · Redux · React Router · HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap · Material UI · Ant Design · Shadcn UI
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend skills" />
+
+Node.js · Express.js · NestJS · REST API · JWT Authentication · Socket.IO
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" alt="Database skills" />
+
+MongoDB · Mongoose · SQL · PostgreSQL · Prisma · Drizzle ORM · Redis · Vector Database
+
+**DevOps & Deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions" alt="DevOps skills" />
+
+Docker · Multi-Container Applications · NGINX · AWS · VPS · GitHub Actions · CI/CD
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,firebase,netlify,vercel" alt="Tools" />
+
+Git · GitHub · Postman · Figma · VS Code · Firebase · Netlify · Vercel
+
+---
+
+## 💼 Experience
+
+### Web Instructor & Developer — Programming Hero
+
+- Mentor students in full stack web development (React, Node.js, Express, MongoDB).
+- Review student projects and guide them through debugging and career growth.
+
+### Full Stack Developer — Sparktech Agency
+
+- Build full stack applications with React / Next.js, Node.js, Express, and MongoDB / PostgreSQL.
+- Design REST APIs with JWT authentication and implement real-time features using Socket.IO.
+
+---
+
+## 🚀 Featured Projects
+
+<!--
+Add your best 3–4 projects here. Template:
+
+### 🔹 Project Name
+Short one-line description of what it does and who it is for.
+**Tech:** Next.js, Node.js, Express, MongoDB, Stripe
+[Live Demo](https://example.com) · [Source Code](https://github.com/your-username/repo)
+-->
+
+> Coming soon — see my pinned repositories below.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to full stack and backend opportunities, freelance projects, and collaborations.
+
+- 🌐 Portfolio: [azimuddin.netlify.app](https://azimuddin.netlify.app)
+- 📧 Email: [mohammadazimuddin274@gmail.com](mailto:mohammadazimuddin274@gmail.com)
+- 💬 WhatsApp: [+880 1883 061967](https://wa.me/8801883061967)
